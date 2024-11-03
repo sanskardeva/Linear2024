@@ -88,9 +88,9 @@ button:hover {
 }
 
 .resizable-image {
-    width: 50px;
-    height: 40px;
-    position: absolute;
+    width: 100px;
+    height: 100px;
+    position:  center;
     top: -4px;
     right: 20px;
     border-radius: 50%;
